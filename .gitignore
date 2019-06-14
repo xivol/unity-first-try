@@ -8,6 +8,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 
+# MacFS files
+.DS_Store
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
